@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Google Location</string>
+    <string name="place_name_title">Tel Aviv</string>
+    <string name="place_name">Kat-Caffe</string>
+    <string name="place_address">Hameyasdim 14</string>
+    <string name="user_to_place_distance">30Km</string>
+    <string name="search_hint">Search</string>
+
+    <string name="title_favorite">Favorites List</string>
+    <string name="share_title">Share</string>
+    <string name="delete_title">Delete</string>
+    <string name="title_search">Search</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_exit">Exit</string>
+    <string name="error_title">Error: </string>
+    <string name="your_radius_is_title">"YOUR RADIUS IS: "</string>
+    <string name="unit_is_title">"AND UNIT IS: "</string>
+    <string name="radius_is_title">"RADIUS IS: "</string>
+
+    <string name="searching_message">Searching</string>
+    <string name="error_no_internet_message">there is no connection to the internet</string>
+    <string name="delete_message">Deleted</string>
+    <string name="add_to_favorites_title">Adding This To Favorites</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all_fav_question">"Are you sure you want to delete all your favorite places?"</string>
+    <string name="delete_favorites_title">DELETE FAVORITES</string>
+
+    <string name="adding_to_favorites_message">Added To Favorites</string>
+    <string name="unit_distance_list_pref_title">unitDistanceList</string>
+    <string name="default_value">--</string>
+    <string name="settings_pref_title">Settings</string>
+    <string name="radius_distance_list_title">radiusDistanceList</string>
+    <string name="default_radius">2</string>
+    <string name="default_kilometers_unit">Kilometers</string>
+    <string name="value_1500">1500</string>
+    <string name="value_3000">3000</string>
+    <string name="value_5000">5000</string>
+    <string name="value_10000">10000</string>
+
+    <string name="user_location_point_a">point of origin</string>
+    <string name="place_location_point_b">point of destination</string>
+    <string name="clear_favorite_boolean_title">clearFavorite</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="share_message_head">You Should Check This: </string>
+    <string name="share_menu">Share It WIth Another</string>
+    <string name="confirm_delete_title">Confirm Delete</string>
+    <string name="delete_question">Do You Really Want To Delete</string>
+    <string name="ok_option">OK</string>
+    <string name="add_fav_title">"Add To Favorites: "</string>
+    <string name="add_fav_question">"Do You  Want To Add This Place: "</string>
+    <string name="hello_blank_fragment">empty fragment</string>
+</resources>

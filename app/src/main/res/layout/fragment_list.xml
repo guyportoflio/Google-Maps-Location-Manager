@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f815d8e2"
+    tools:context="com.example.presly.Fragments.ListFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerViewPlaces"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>

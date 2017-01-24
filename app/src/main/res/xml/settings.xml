@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="Kilometers"
+        android:entries="@array/unitDistanceList"
+        android:entryValues="@array/unitDistanceList"
+        android:key="unitDistancePref"
+        android:title="Select Unit Distance"/>
+
+    <ListPreference
+        android:defaultValue="3"
+        android:entries="@array/radiusDistanceList"
+        android:entryValues="@array/radiusDistanceList"
+        android:key="radiusDistancePref"
+        android:title="Select Radius Distance"/>
+
+    <Preference
+        android:enabled="true"
+        android:key="clearFavoritesPref"
+        android:title="Clear Favorites"/>
+
+</PreferenceScreen>
